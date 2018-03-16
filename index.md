@@ -1,4 +1,4 @@
-## Localised Vehical Routing with Vendor Based Selection in R
+## Localised Vehicle Routing with Vendor Based Selection in R
 
 Hello everyone,
 
