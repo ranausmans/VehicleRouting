@@ -164,4 +164,4 @@ I don't say this is perfect implementation as Vehical Routing is far more seriou
 
 I would be happy if someone can create Shiny Application with this basic implementation. 
 
-*Rana Muhammad Usman is a data scientist based in Islamabad, Pakistan. He has worked on various problems in Data Science such as in Oil Industry and Web User Behaviorial Analysis. He likes to run and aspires to participate in 10k Marathon. He can be reached out at usmanashrafrana@gmail.com*
+*Rana Muhammad Usman is a data scientist based in Islamabad, Pakistan who works with Persontyle Group. He has worked on various problems in Data Science such as in Oil Industry and Web User Behaviorial Analysis. He likes to run and aspires to participate in 10k Marathon. He can be reached out at usmanashrafrana@gmail.com*
